@@ -1,0 +1,44 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: lightblue;
+}
+
+.container{
+    height: 340px;
+    width: 220px;
+    background: #fff;
+    text-align: center;
+    border-radius: 10px;
+    padding: 10px;
+
+}
+
+.container img{
+    margin-bottom: 10px;
+    height: 200px;
+    border-radius: 10px;
+}
+
+.container h4{
+    font-size: 17px;
+    font-weight: 700;
+
+}
+
+.container p{
+    font-size: 12px;
+    padding-top: 10px;
+}
+
+.text-wrap{
+    padding: 0px 5px;
+}
